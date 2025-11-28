@@ -15,4 +15,4 @@ let Total = valorproduto - desconto;
 
 alert("Valor da compra: R$ " + valorproduto.toFixed(2) +
       "\nDesconto: R$ " + desconto.toFixed(2) +
-      "\nValor Total: R$ " + Total.toFixed(2));
+      "\nTotal: R$ " + Total.toFixed(2));

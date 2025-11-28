@@ -24,6 +24,8 @@
 // }
 // window.alert("login bem-sucedido" )
 
+// -------------------------------------Correção------------------------
+
 let usuario = prompt("digite o seu nome de usuario: ")
 let senha = prompt("digite sua senha")
 
